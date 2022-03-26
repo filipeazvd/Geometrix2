@@ -15,7 +15,7 @@ class Menu extends Phaser.Scene {
 
     }
 
-    //testestes
+    //testestes   outroteste
     create() {
         this.background = this.add.sprite(0.5 * game.config.width, 0.5 *game.config.height, 'background');
         this.background.setScale(0.79);
